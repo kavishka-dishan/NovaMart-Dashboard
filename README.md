@@ -41,3 +41,6 @@ Looking only at Total Sales can hide low profitability. A product or category ca
 1. Focus on high-sales months and prepare sufficient stock.
 2. Review pricing and costs of low-margin product categories.
 3. Maintain sufficient stock and promote the top-selling products.
+
+👨‍💻 Author
+Kavishka Dishan
